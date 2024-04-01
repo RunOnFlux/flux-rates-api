@@ -15,7 +15,7 @@ coinIds.forEach((coin) => {
 const coinAggregatorIDs = {
   // Just add the cryptoCompare ID in the end of this list
   cryptoCompare: [
-    'BTC',
+    'flux',
   ],
   /**
    * CoinGecko API ID
