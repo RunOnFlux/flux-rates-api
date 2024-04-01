@@ -1,4 +1,4 @@
-# zelcore-rates-api
+# flux-rates-api
 
 A Service that supplies Flux rates for applications purchases on Flux network.
 
