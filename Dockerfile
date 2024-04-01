@@ -1,5 +1,5 @@
 FROM node:14-alpine
-MAINTAINER Tadeas Kmenta <tadeas@zel.network>
+MAINTAINER Influx Dev Team <info@runonflux.io>
 
 COPY package.json /tmp/package.json
 RUN cd /tmp && npm install
