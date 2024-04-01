@@ -1,6 +1,6 @@
 # zelcore-rates-api
 
-A Service that supplies rates and market conversion for ZelCore assets to other currencies
+A Service that supplies Flux rates for applications purchases on Flux network.
 
 ## Requirements
 
