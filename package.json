@@ -1,29 +1,29 @@
 {
   "name": "rates-api",
-  "version": "2.7.0",
-  "description": "A service that supplies market info for Zelcore assets and conversions to other currencies",
+  "version": "1.0.0",
+  "description": "A Service that supplies Flux rates for applications purchases on Flux network.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo 'No tests have been implemented' && exit 1",
     "lint": "eslint ./ --fix"
   },
-  "author": "Zelcore Technologies",
+  "author": "InFlux Technologies Limited",
   "license": "MIT",
   "dependencies": {
     "apicache": "^1.6.3",
-    "axios": "^0.27.2",
-    "config": "^3.3.8",
+    "axios": "^1.6.8",
+    "config": "^3.3.11",
     "cors": "^2.8.5",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.0"
   },
   "devDependencies": {
-    "eslint": "^8.26.0",
+    "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
-    "eslint-plugin-react": "^7.31.10"
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.34.1"
   }
 }
