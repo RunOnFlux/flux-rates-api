@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:20-alpine
 MAINTAINER Influx Dev Team <info@runonflux.io>
 
 COPY package.json /tmp/package.json
